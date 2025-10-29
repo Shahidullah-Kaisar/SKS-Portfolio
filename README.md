@@ -1,73 +1,40 @@
-# Welcome to your Lovable project
+# 👋 Md. Shahidullah Kaisar
 
-## Project info
+## 🚀 About Me
 
-**URL**: https://lovable.dev/projects/f8a358a6-98b1-4a1c-a3d8-ded76eccdd50
+I am an **Aspiring Full Stack Developer** currently focused on the **MERN stack, Java (Spring Boot), and PostgreSQL**. I am pursuing my Bachelor of Science in ICT at **Jahangirnagar University**.
 
-## How can I edit this code?
+I am passionate about building smart, efficient applications by integrating **AI into projects using Gemini APIs and Hugging Face**. I enjoy solving problems on LeetCode and Codeforces to sharpen my skills, having solved a total of **900+ problems** across all platforms.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🛠️ Technical Toolkit
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f8a358a6-98b1-4a1c-a3d8-ded76eccdd50) and start prompting.
+| Category | Key Technologies |
+| :--- | :--- |
+| **Languages** | C, C++, Java, JavaScript, TypeScript |
+| **Frontend** | React.js, Next.js, Redux, Tailwind CSS, Bootstrap, HTML, CSS |
+| **Backend** | Node.js, Express.js, Spring Boot, REST APIs |
+| **Databases** | MongoDB, MySQL, PostgreSQL |
+| **AI Tools** | Hugging Face, Gemini AI |
+| **Core CS** | Object-Oriented Programming (OOP), Data Structures & Algorithms (Basic) |
+| **Tools** | Git, GitHub, Postman, Vercel, VS Code |
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🏅 Achievements
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* **Problem Solving:** Solved **900+ problems** across Codeforces, LeetCode, Vjudge, CodeChef, and AtCoder.
+* **JavaFeast Hackathon 2025:** Selected in Preliminary and Project Proposal Round.
+* **IEEEXtreme 16.0 Programming Competition 2022:** Ranked **17th** out of 100 Bangladeshi teams.
+* **ICPC 2021 Preliminary Contest:** Participated in the national preliminary round.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📞 Connect
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f8a358a6-98b1-4a1c-a3d8-ded76eccdd50) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+| Platform | Details |
+| :--- | :--- |
+| **Email** | shkaisar2002@gmail.com |
+| **Phone** | +8801788109909 |
+| **LinkedIn** | https://www.linkedin.com/in/shkaisar |
